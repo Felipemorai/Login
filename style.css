@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+body {
+    background: #f7f7f7;
+    margin: 20px;
+    font-family: 'Staatliches', cursive ;
+}
+#ativar {
+    display: block;
+    margin: 20px auto;
+}
+#modal {
+    padding: 30px;
+    background: white;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.1);
+    max-width: 400px;
+    margin: 20px auto;
+}
+#modal h1{
+    margin: 0px 0px 20px;
+    color: #00008b;
+}
+#modal label {
+    display: block;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    color: #00008b;
+}
+#modal input {
+    width: 100%;
+    border: 1px solid #6495ed;
+}
